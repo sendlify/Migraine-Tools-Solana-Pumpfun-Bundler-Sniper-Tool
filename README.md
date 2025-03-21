@@ -35,7 +35,10 @@ You're ready to use Migraine!
 - Token Sniper
 - Meta Tracker (Find emerging narratives easily)
 
-[![Migraine](https://img.youtube.com/vi/IkiEWdtLPOw/maxresdefault.jpg)](https://www.youtube.com/watch?v=IkiEWdtLPOw)
+
+https://github.com/user-attachments/assets/7f3367c6-2c65-4d89-ab11-cd48dd6791f7
+
+
 
 
 
