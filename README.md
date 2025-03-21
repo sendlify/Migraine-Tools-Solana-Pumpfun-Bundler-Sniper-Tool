@@ -36,7 +36,10 @@ You're ready to use Migraine!
 - Meta Tracker (Find emerging narratives easily)
 
 
-https://github.com/user-attachments/assets/7f3367c6-2c65-4d89-ab11-cd48dd6791f7
+
+https://github.com/user-attachments/assets/c76222c8-c903-4954-a8f4-41dd80080399
+
+
 
 
 
